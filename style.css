@@ -61,7 +61,7 @@ h2 {
 }
 
 .selected {
-  color: black;
+  color: black !important;
 }
 
 #computer .far,
